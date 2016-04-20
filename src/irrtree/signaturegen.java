@@ -6,10 +6,7 @@
 
 package irrtree;
 
-/**
- *
- * @author abhishek
- */
+
 public class signaturegen
 {
     String calc(String f1)

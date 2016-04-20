@@ -6,10 +6,7 @@
 
 package irrtree;
 
-/**
- *
- * @author abhishek
- */
+
 class sigmatch
 {
 

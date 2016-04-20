@@ -9,10 +9,7 @@ package irrtree;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-/**
- *
- * @author abhishek
- */
+
 class minnodecal 
 {
     public static int comp=0;

@@ -6,10 +6,6 @@ package irrtree;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author abhishek
- */
 class Distance
 {
     public double calc(double d1,double d2,double d3,double d4)

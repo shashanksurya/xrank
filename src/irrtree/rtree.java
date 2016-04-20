@@ -13,10 +13,7 @@ import static java.util.Spliterators.iterator;
 import static java.util.Spliterators.iterator;
 import java.util.TreeSet;
 
-/**
- *
- * @author abhishek
- */
+
 class rtree
 {
 

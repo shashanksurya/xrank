@@ -13,10 +13,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.LinkedList;
 
-/**
- *
- * @author abhishek
- */
 class Process2
 {
 

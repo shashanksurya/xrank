@@ -3,10 +3,7 @@ package irrtree;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author abhishek
- */
+
 public class Irrtree {
 
     /**
